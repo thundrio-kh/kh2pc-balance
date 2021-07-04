@@ -1,0 +1,956 @@
+assets:
+- method: binarc
+  name: limit/fm/aladdin.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\aladdin\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/auron.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\auron\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/beast.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\beast\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/donald.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\donald\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/donald2.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\donald2\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/donald2_wi.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\donald2_wi\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/donald_wi.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\donald_wi\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/goofy.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\goofy\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/goofy.bar
+  source:
+  - method: copy
+    name: LIMI
+    source:
+    - name: files\goofy\LIMI.mset
+    type: Motionset
+- method: binarc
+  name: limit/fm/goofy2.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\goofy2\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/goofy2_wi.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\goofy2_wi\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/goofy_wi.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\goofy_wi\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/jack.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\jack\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/mulan.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\mulan\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/riku.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\riku\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/simba.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\simba\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/sparrow.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\sparrow\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/trinity.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\trinity\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/trinity_wi.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\trinity_wi\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/trinity_zz.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\trinity_zz\limi.bdx
+    type: Bdx
+- method: binarc
+  name: limit/fm/tron.bar
+  source:
+  - method: copy
+    name: limi
+    source:
+    - name: files\tron\limi.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL00_MS101.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\AL00_MS101\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL03_MS103.bar
+  source:
+  - method: copy
+    name: al03
+    source:
+    - name: files\AL03_MS103\al03.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL05_MS203.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\AL05_MS203\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL09_GIMMICK.bar
+  source:
+  - method: copy
+    name: ms_g
+    source:
+    - name: files\AL09_GIMMICK\ms_g.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL14_MS201A.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\AL14_MS201A\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL14_MS201B.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\AL14_MS201B\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL14_MS_L.bar
+  source:
+  - method: copy
+    name: al14
+    source:
+    - name: files\AL14_MS_L\al14.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/AL14_MS_M.bar
+  source:
+  - method: copy
+    name: al14
+    source:
+    - name: files\AL14_MS_M\al14.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB00_MS202.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\BB00_MS202\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB01_MS101.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\BB01_MS101\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB03_MS103.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\BB03_MS103\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB04_MS201.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\BB04_MS201\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB05_MS104A.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\BB05_MS104A\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB05_MS104B.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\BB05_MS104B\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB08_GIMMICK.bar
+  source:
+  - method: copy
+    name: ms_g
+    source:
+    - name: files\BB08_GIMMICK\ms_g.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB11_MS102.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\BB11_MS102\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/BB15_MS203.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\BB15_MS203\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA01_MS101.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\CA01_MS101\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA01_MS102.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\CA01_MS102\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA01_MS201.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\CA01_MS201\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA02_MS103.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\CA02_MS103\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA10_MS107.bar
+  source:
+  - method: copy
+    name: ca10
+    source:
+    - name: files\CA10_MS107\ca10.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA14_MS203.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\CA14_MS203\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/CA18_MS202.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\CA18_MS202\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/EH10_MS102.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\EH10_MS102\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/EH19_MS105.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\EH19_MS105\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/EH24_MS110.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\EH24_MS110\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB01_MS601.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\HB01_MS601\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB07_MS402.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HB07_MS402\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB09_MS101.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HB09_MS101\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB09_MS501.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HB09_MS501\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB09_MS901.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HB09_MS901\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB13_MS902.bar
+  source:
+  - method: copy
+    name: hb13
+    source:
+    - name: files\HB13_MS902\hb13.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB16_MS404A.bar
+  source:
+  - method: copy
+    name: hb16
+    source:
+    - name: files\HB16_MS404A\hb16.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB16_MS404B.bar
+  source:
+  - method: copy
+    name: hb16
+    source:
+    - name: files\HB16_MS404B\hb16.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB16_MS404C.bar
+  source:
+  - method: copy
+    name: hb16
+    source:
+    - name: files\HB16_MS404C\hb16.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB16_MS404D.bar
+  source:
+  - method: copy
+    name: hb16
+    source:
+    - name: files\HB16_MS404D\hb16.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HB20_MS401.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HB20_MS401\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE05_MS102.bar
+  source:
+  - method: copy
+    name: he05
+    source:
+    - name: files\HE05_MS102\he05.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE06_MS101.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\HE06_MS101\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE06_MS203.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HE06_MS203\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE07_MS103.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\HE07_MS103\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE09_MS201.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HE09_MS201\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE09_MS202.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\HE09_MS202\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE18_MS108.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\HE18_MS108\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE19_MS204.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\HE19_MS204\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/HE19_MS205.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\HE19_MS205\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/LK05_MS101.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\LK05_MS101\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/LK14_MS103.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\LK14_MS103\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/LK15_MS202.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\LK15_MS202\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/LM02_MS101.bar
+  source:
+  - method: copy
+    name: lm02
+    source:
+    - name: files\LM02_MS101\lm02.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU01_MS101.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\MU01_MS101\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU05_MS105.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\MU05_MS105\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU07_MS201.bar
+  source:
+  - method: copy
+    name: mu07
+    source:
+    - name: files\MU07_MS201\mu07.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU08_MS107.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\MU08_MS107\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU08_MS202.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\MU08_MS202\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU08_MS204.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\MU08_MS204\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/MU10_MS203.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\MU10_MS203\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/NM00_MS101.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\NM00_MS101\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/NM03_MS103.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\NM03_MS103\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/NM06_MS102.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\NM06_MS102\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/NM07_MS204.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\NM07_MS204\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/NM09_MS104.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\NM09_MS104\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/SHIP_BATTLE.bar
+  source:
+  - method: copy
+    name: ca_s
+    source:
+    - name: files\SHIP_BATTLE\ca_s.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TR02_MS210.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TR02_MS210\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TR04_MS202.bar
+  source:
+  - method: copy
+    name: tr04
+    source:
+    - name: files\TR04_MS202\tr04.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TR09_MS204.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TR09_MS204\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TR09_MS205.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TR09_MS205\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT02_MS201.bar
+  source:
+  - method: copy
+    name: save
+    source:
+    - name: files\TT02_MS201\save.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT03_MS400.bar
+  source:
+  - method: copy
+    name: tt_s
+    source:
+    - name: files\TT03_MS400\tt_s.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT03_MS601.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT03_MS601\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT04_MS107.bar
+  source:
+  - method: copy
+    name: tt04
+    source:
+    - name: files\TT04_MS107\tt04.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT04_MS108.bar
+  source:
+  - method: copy
+    name: tt04
+    source:
+    - name: files\TT04_MS108\tt04.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT04_MS301.bar
+  source:
+  - method: copy
+    name: tt04
+    source:
+    - name: files\TT04_MS301\tt04.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT04_MS500.bar
+  source:
+  - method: copy
+    name: tt_s
+    source:
+    - name: files\TT04_MS500\tt_s.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT04_MS901.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT04_MS901\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT05_AXEL.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TT05_AXEL\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT05_MS403.bar
+  source:
+  - method: copy
+    name: tt05
+    source:
+    - name: files\TT05_MS403\tt05.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT07_MS101.bar
+  source:
+  - method: copy
+    name: tt07
+    source:
+    - name: files\TT07_MS101\tt07.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT07_MS103.bar
+  source:
+  - method: copy
+    name: tt07
+    source:
+    - name: files\TT07_MS103\tt07.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT07_MS105.bar
+  source:
+  - method: copy
+    name: tt07
+    source:
+    - name: files\TT07_MS105\tt07.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT08_MS701.bar
+  source:
+  - method: copy
+    name: ms_a
+    source:
+    - name: files\TT08_MS701\ms_a.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT14_MS001.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT14_MS001\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT14_MS109.bar
+  source:
+  - method: copy
+    name: tt_d
+    source:
+    - name: files\TT14_MS109\tt_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT14_MS110.bar
+  source:
+  - method: copy
+    name: tt14
+    source:
+    - name: files\TT14_MS110\tt14.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT19_MS602.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT19_MS602\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT20_AXEL.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TT20_AXEL\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT20_MS603.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TT20_MS603\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT25_MS801.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT25_MS801\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT29_MS802.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT29_MS802\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT30_MS803.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT30_MS803\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT32_MS302.bar
+  source:
+  - method: copy
+    name: tt32
+    source:
+    - name: files\TT32_MS302\tt32.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT32_MS303.bar
+  source:
+  - method: copy
+    name: tt32
+    source:
+    - name: files\TT32_MS303\tt32.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT34_MS304.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\TT34_MS304\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT40_MS002.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT40_MS002\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/TT40_MS003.bar
+  source:
+  - method: copy
+    name: ms_d
+    source:
+    - name: files\TT40_MS003\ms_d.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/WI01_MS101.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\WI01_MS101\ms_b.bdx
+    type: Bdx
+- method: binarc
+  name: msn/jp/WI03_MS104.bar
+  source:
+  - method: copy
+    name: ms_b
+    source:
+    - name: files\WI03_MS104\ms_b.bdx
+    type: Bdx
+description: attempts to patch the balance tweaks made to KH 2.5 back into KH2FM PS2
+game: kh2
+title: KH2.5 Balance Patch
